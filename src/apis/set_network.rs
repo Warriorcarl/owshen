@@ -21,7 +21,7 @@ lazy_static! {
         (
             "11155111".into(),
             (
-                "https://ethereum-sepolia.blockpi.network/v1/rpc/public".into(),
+                "https://sepolia.infura.io/v3/".into(),
                 "Sepolia.json".into()
             )
         )
